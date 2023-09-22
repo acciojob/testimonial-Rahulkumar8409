@@ -1,26 +1,26 @@
 /*  your css code here. If applicable */
 .border{
-  background-color: #f5f5f5;
-  padding: auto;
-
+  background-color:#f5f5f5;
+  padding:auto;
+border:#f5f5f5;
 }
 .eq1{
   background-color:white;
-  padding: auto;
-  border: #f5f5f5;
+  padding:auto;
+  border:#f5f5f5;
 }
 .eq2{
-  text-align: right;
-  font-style: italic;
-	 padding: auto;
+  text-align:right;
+  font-style:italic;
+	 padding:auto;
 }
 .eq4{
   background-color:white;
-  padding: auto;
+  padding:auto;
   border: #f5f5f5;
 }
 .eq3{
-  text-align: right;
-  font-style: italic;
-	 padding: auto;
+  text-align:right;
+  font-style:italic;
+	 padding:auto;
 }
