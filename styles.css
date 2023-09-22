@@ -1,26 +1,15 @@
-.border{
+.testimonials{
   background-color: #f5f5f5;
   padding: auto;
   width: 100%;
 }
-.eq1{
+.testimonialbox{
   background-color:white;
   padding: auto;
   border: #f5f5f5;
   color: black;
 }
-.eq2{
-  text-align: right;
-  font-style: italic;
-  color: black;
-}
-.eq4{
-  background-color:white;
-  padding: auto;
-  border: #f5f5f5;
-  color: black;
-}
-.eq3{
+.Authorname{
   text-align: right;
   font-style: italic;
   color: black;
