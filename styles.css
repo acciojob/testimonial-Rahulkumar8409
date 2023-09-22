@@ -12,6 +12,7 @@
 .eq2{
   text-align: right;
   font-style: italic;
+	 padding: auto;
 }
 .eq4{
   background-color:white;
@@ -21,4 +22,5 @@
 .eq3{
   text-align: right;
   font-style: italic;
+	 padding: auto;
 }
